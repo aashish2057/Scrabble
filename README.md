@@ -1,3 +1,2 @@
 # Scrabble
-Scrabble
-Ved Kale, Gautam Sapre and Aashish Sharma
+Scrabble by Ved Kale, Gautam Sapre and Aashish Sharma
